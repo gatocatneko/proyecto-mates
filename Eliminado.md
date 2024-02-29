@@ -1,1 +1,0 @@
-fichero con sentencia
