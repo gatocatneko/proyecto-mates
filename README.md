@@ -1,1 +1,1 @@
-Esto sera un fichero para revertir, Ya he terminado¡¡
+Esto sera un fichero para mostrar commits a revertir, ya lo he terminado se usp --soft sin eñiminar info
