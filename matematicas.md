@@ -1,3 +1,3 @@
 Hola esto es un fichero de lectura pa nuestro repositorio
 
-Esto es un cambio, otro cambio
+Esto es un cambio, otro cambio.
