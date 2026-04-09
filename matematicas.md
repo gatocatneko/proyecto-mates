@@ -1,6 +1,6 @@
 # Nuestro cliente es el mejor 
 
-Esto es un ficchero muy chulo. Estos so unos cambios que se aplicaran con rebase. 
+Esto es un ficchero muy chulo. Estos so unos cambios que se aplicaran con rebase y han sido exitosos. 
 
 Hola esto es un fichero de lectura pa nuestro repositorio
 
