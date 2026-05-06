@@ -1,0 +1,3 @@
+# Historia de GIT
+Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones informáticas cuando estas tienen un gran número de archivos de código fuente. Su propósito es llevar registro de los cambios en archivos de computadora incluyendo coordinar el trabajo que varias personas realizan sobre archivos compartidos en un repositorio de código.
+<img width="500" height="209" alt="Git-logo svg" src="https://github.com/user-attachments/assets/bc28c303-ebe3-4c5f-ba88-f826192b2ee6" />
