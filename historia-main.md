@@ -1,8 +1,8 @@
 # Historia de la rama master
 
-Hace unas semanas este curso empezo y dentro de poco acabara....
+Este curso se ha relializado los meses de Junio y Julio.
 
 
 ## Inicios de la rama 
 
-La rama empezo llmandoe master....
+La rama empezo llamandose master....
